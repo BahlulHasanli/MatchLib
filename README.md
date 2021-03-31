@@ -2,7 +2,7 @@
 
 A simple pattern matching library
 
-##Getting started
+## Getting started
 
 very simple to use:
 
