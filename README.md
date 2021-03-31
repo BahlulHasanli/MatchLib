@@ -1,4 +1,4 @@
-# Match
+# MatchLib
 
 A simple pattern matching library
 
@@ -11,7 +11,7 @@ very simple to use:
 after package installation
 
 ```javascript
-const match = require('./lib/match');
+const match = require('match');
 
 const option = match(50)(
   [(key) => key === 18, () => `You are young`],
