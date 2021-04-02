@@ -11,7 +11,7 @@ very simple to use:
 after package installation
 
 ```javascript
-const match = require('match');
+import matchlib from 'matchlib';
 
 const option = match(50)(
   [(key) => key === 18, () => `You are young`],
